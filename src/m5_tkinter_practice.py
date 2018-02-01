@@ -49,7 +49,7 @@ def main():
     hello_goodbye__button['command'] = lambda: hello_goodbye(my_entry_box)
     hello_goodbye__button.grid()
     # ------------------------------------------------------------------
-    # TODO: 7.
+    # DONE: 7.
     #    -- Put a second Entry on the Frame.
     #    -- Put a third Button on the frame.
     #    -- Make this new Button respond to a button-press as follows:
